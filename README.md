@@ -34,7 +34,7 @@ Raw survey data and survey questionnaires files are provided.
 
 ## Results
 
-The main findings of the code is reported at the Medium post available here---. 
+The main findings of the code is reported at the Medium post available here: [https://medium.com/@juliajingjun.yu/should-you-find-a-developer-job-in-north-america-or-western-europe-cfe905d89af6?sk=d372aa534ac88699d9bbceea92d6e62c].
 
 ## Licensing, Authors, Acknowlegdgement 
 
