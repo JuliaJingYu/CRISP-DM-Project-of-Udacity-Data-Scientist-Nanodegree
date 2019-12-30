@@ -42,7 +42,9 @@ Specifically, these files are:
 
 The main findings of the code is reported at the Medium post available here: [https://medium.com/@juliajingjun.yu/should-you-find-a-developer-job-in-north-america-or-western-europe-cfe905d89af6?sk=d372aa534ac88699d9bbceea92d6e62c].
 
-
+Main conclusions: 
+I. We found the salary of a North American developer is significantly higher than that of Western European developer regardless of years of coding experience.
+II. We found the Career Satisfaction of the North American developers are much more higher than those of Western European developers.
 
 
 
