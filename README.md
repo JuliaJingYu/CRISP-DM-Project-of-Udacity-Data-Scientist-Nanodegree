@@ -30,7 +30,13 @@ For the project, I was interested in using Stack Overflow Developer Survey Data 
 
 The Jupyter Notebook here presents the work related to answering the questions above. 
 
-Raw survey data and survey questionnaires files are provided. 
+Raw survey data and survey questionnaires files are provided in the Kaggle link below under the section of Licensing, Authors, Acknowledgement. 
+
+Specifically, these files are: 
+1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
+2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
+3. so_survey_2019.pdf - PDF file of survey instrument
+
 
 ## Results
 
