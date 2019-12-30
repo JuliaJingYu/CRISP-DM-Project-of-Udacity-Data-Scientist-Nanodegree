@@ -2,7 +2,7 @@
 
 Data Scientist Nanodegree of Udacity 
 
-Project 1: Write a Data Science Blog: "Should You Find a Job in North America or Western Europe?"  
+Project 1: Write a Data Science Blog: "**Should You Find a Job in North America or Western Europe?**"  
 
 ## Table of Contents 
 
